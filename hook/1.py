@@ -26,6 +26,9 @@ Java.perform(function () {
 
 
 
+
+
+
 ####下面代码完全不需要动
 script = session.create_script(scr)
 def on_message(message, data):
